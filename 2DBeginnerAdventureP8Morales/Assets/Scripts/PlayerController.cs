@@ -5,7 +5,7 @@ using UnityEngine.UIElements;
 
 public class PlayerController : MonoBehaviour
 {
-    public float speed = 3.0f;
+    public float speed = 1.0f;
     public int maxHealth = 5;
 
     public GameObject projectilePrefab;
